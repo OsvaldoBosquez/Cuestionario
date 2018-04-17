@@ -19,6 +19,7 @@ public class Cuestionario {
         
         p1.setLocationRelativeTo(null);
         p1.setVisible(true);
+        //Este pedo si jala
     }
     
 }
